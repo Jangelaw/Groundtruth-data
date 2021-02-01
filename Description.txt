@@ -1,0 +1,6 @@
+Some manually generated groundtruth data for the work in the following paper
+
+Yan, Y., Zhao, H., Kao, F.J., Vargas, V.M., Zhao, S. and Ren, J., 2018, July. 
+Deep background subtraction of thermal and visible imagery for pedestrian detection in videos. 
+In International Conference on Brain Inspired Cognitive Systems (pp. 75-84). Springer, Cham. 
+(Best student paper award)
